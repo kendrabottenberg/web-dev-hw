@@ -1,3 +1,4 @@
-New Text
-For Class
-Honestly a bit confused
+The web (www) is the collection of information that can be found on the internet
+The internet is a collection of connected cables that connect all parts of the earth and allow information to be sent through these cables
+The directory is the overall encompass of the files. I think it's like how the root folder holds all of the files you need for a website
+VCS or version control allows you to see what changes you have made to a file and the progess change of a website or file.
