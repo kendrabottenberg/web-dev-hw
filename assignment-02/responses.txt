@@ -1,0 +1,4 @@
+Data travels around the internet through many different stops. Using IP addresses they travel to routers which send them to their designated destination with packages. Sometimes the route they take isn't the most direct but it is the most efficient way determined to send info.
+An IP address is the individual string of numbers used to identify a computer or server. A DNS is used to name a domain address or the destination of information that a computer or server is trying to connect to.
+A cookie is a piece of information from a website that is stored on someone's computer, for example, login information can be saved for faster login next time.
+Protocol, domain name, path
