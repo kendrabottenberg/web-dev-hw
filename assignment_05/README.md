@@ -1,0 +1,3 @@
+In a document there is usually one head element and one body element. The head element contains processing information and document metadata. The body contains the data that is rendered by the browser and displayed on the client's local computer.
+Structural mark up makes the document structural pieces work like headings and lists. Sematic is more of a style feature to make words bold or emphasized.
+My work cycle for this week was giving up and putting it off a lot. Honestly this class confuses the hell out of me and although I'm trying my best to follow directions I really don't know if I'm doing this right or not. I've just been trying to follow your examples as best as I can. 
