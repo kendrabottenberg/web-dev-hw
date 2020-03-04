@@ -1,0 +1,3 @@
+Learning how to use HTML has not been easy for me at all. I've really been struggling with some of the elements but I do think I learned how to re do some of the things I previously missed and that this website isn't too bad.
+I am very nervous to start learning about styling. That's the part that has made the least sense to me out of everything so I'm hoping it wont be that bad.
+For this project I split everything up into different days so I didn't get as frustrated with it. I also started using the internet to explain things a little more so I could better understand them and I think that helped me a lot with things like images.
