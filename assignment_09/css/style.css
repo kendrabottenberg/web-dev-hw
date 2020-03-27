@@ -1,0 +1,52 @@
+body {
+   font-size: 12pt;
+   color: white;
+}
+
+.box-1 {
+   background-color: rgb(200, 0, 0);
+   height: 250px;
+}
+
+.box-1.inner {
+   background-color: rgb(0, 0, 200);
+   opacity: 0.5;
+   width: 60%;
+   height: 300px;
+   margin-top: 10px;
+   margin-left: 50px;
+}
+
+.box-2 {
+    background-color: rgba(0, 200, 0, 0.2);
+    position: absolute;
+    left: 120px;
+    top: 140px;
+    width: 40%;
+    height: 300px;
+}
+
+.line-vertical {
+   width: 10px;
+   height: 100%;
+   background-color: green;
+   position: absolute;
+   top: 0;
+   left: 30px;
+   z-index: -5;
+}
+
+.line-horizontal {
+   width: 80%;
+   height: 5px;
+   background-color: black;
+   position: absolute;
+   bottom: 25px;
+   right: 0;
+}
+
+img {
+   width: 200px;
+}
+
+/* This was so confusing I had to kind of copy yours, please tell me this is actually how you do this. */
