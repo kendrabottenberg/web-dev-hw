@@ -1,0 +1,17 @@
+h1 {
+   font-family: sans-serif,monospace;
+   font-size: 20pt
+   text-align:center;
+   font-weight: bold;
+}
+
+h2 {
+   font-family: serif, monospace;
+   font-size: 16pt
+  font-weight:lighter;
+  first-letter {
+  color: red;
+}
+a:link {
+   color: #Black;
+   text-decoration: underline;
