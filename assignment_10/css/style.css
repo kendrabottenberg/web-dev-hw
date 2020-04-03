@@ -9,7 +9,7 @@ h2 {
    font-family: serif, monospace;
    font-size: 16pt
   font-weight:lighter;
-  first-letter {
+  first-letter {T}
   color: red;
 }
 a:link {
