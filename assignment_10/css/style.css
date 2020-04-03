@@ -9,9 +9,9 @@ h2 {
    font-family: serif, monospace;
    font-size: 16pt
   font-weight:lighter;
-  first-letter {T}
-  color: red;
+  p::first-letter {T}
+color: red;
 }
 a:link {
-   color: #Black;
+   color: #rgb(255, 0, 0);0.5;
    text-decoration: underline;
