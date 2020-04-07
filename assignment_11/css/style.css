@@ -9,3 +9,33 @@ header {
     margin-top: 5px
     padding: 0.25em;
 }
+.my-box {
+  border: 2px;
+  width: 300px;
+  height: 500px;
+  background-color: grey;
+  color: black
+  text:12px
+  padding: 1em;
+  border-style: dashed;
+  border-color: black;
+  margin: 1em;
+  text-align: center;
+  position: fixed;
+
+
+}
+.display-inline {
+    display: inline;
+}
+.display-inline-block {
+    display: inline-block;
+}
+.logo {
+  width: 10%;
+    height: 8em;
+    margin: 0.25em;
+}
+.float .logo {
+  float: left;
+}
