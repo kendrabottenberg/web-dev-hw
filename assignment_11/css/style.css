@@ -21,7 +21,9 @@ header {
   border-color: black;
   margin: 1em;
   text-align: center;
-  position: static;
+  position: relative;
+  left: 70px;
+  top: 40px;
 }
 .my-box2 {
   border: 1px;
@@ -33,7 +35,7 @@ header {
   padding: 1em;
   margin: 1em;
   text-align: left;
-  position: static;
+  position: relative;
 }
 .display-inline {
     display: inline;
