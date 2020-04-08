@@ -22,7 +22,7 @@ header {
   margin: 1em;
   text-align: center;
   position: relative;
-  left: 300px;
+  left: 400px;
   top: 40px;
 }
 .my-box2 {
@@ -37,7 +37,7 @@ header {
   text-align: center;
   position: relative;
   top: 40px;
-  left: 550px;
+  left: 850px;
 
 }
 .display-inline {
