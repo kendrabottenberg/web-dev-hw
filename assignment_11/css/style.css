@@ -36,6 +36,9 @@ header {
   margin: 1em;
   text-align: left;
   position: relative;
+  top: 40px;
+  left: 550px;
+  
 }
 .display-inline {
     display: inline;
