@@ -23,6 +23,18 @@ header {
   text-align: center;
   position: static;
 }
+.my-box2 {
+  border: 1px;
+  width: 50px;
+  height: 100px;
+  background-color: grey;
+  color: black;
+  text: 10px;
+  padding: 1em;
+  margin: 1em;
+  text-align: left;
+  position: static;
+}
 .display-inline {
     display: inline;
 }
