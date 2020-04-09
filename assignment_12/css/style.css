@@ -14,7 +14,7 @@
     color: #black;
 }
 .dropdown:hover .dropdown-content {
-    display: inline-block;
+    display: block;
 }
 
 .dropdown-item {
