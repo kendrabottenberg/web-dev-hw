@@ -39,3 +39,14 @@ header {
     margin-top: 1px;
     padding: 0.25em;
 }
+sub-header {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20pt;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 0.25em;
+}
