@@ -9,6 +9,7 @@
     color: #black;
     background-color: #blue;
     z-index: 1;
+
 }
 .dropdown-content a {
     color: #black;
@@ -24,7 +25,7 @@
     padding: 0.5em;
     min-width: 7em;
 }
-.dropdown-item:hover, .dropdown-item:hover a {
+.dropdown-item:hover a {
     color: #red;
     background-color: #black;
 }
