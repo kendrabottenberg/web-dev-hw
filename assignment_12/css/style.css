@@ -68,3 +68,10 @@ p {
   padding: 0.25em;
 
 }
+form {
+  background-color: black;
+  color: white;
+  font-size:px;
+  font-family: sans-serif, serif;
+  text-align: left;
+}
