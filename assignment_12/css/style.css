@@ -51,6 +51,13 @@ sub-header {
     margin-top: 5px;
     padding: 0.25em;
 }
+nav {
+  background-color: #333;
+  color: white;
+  font-size: 15px;
+  font-family: sans-serif,serif;
+  text-align: center;
+}
 p {
   background-color: black;
   color: white;
