@@ -23,7 +23,7 @@
     text-align: left;
     margin: 0;
     padding: 0.5em;
-    min-width: 7em;
+    min-width: 2em;
 }
 .dropdown-item:hover a {
     color: #red;
@@ -33,7 +33,7 @@ header {
     background-color: black;
     color: white;
     font-family: sans-serif,serif;
-    font-size: 20pt;
+    font-size: 50pt;
     text-align: center;
     text-transform: uppercase;
     margin-bottom: 1px;
@@ -54,7 +54,7 @@ sub-header {
 nav {
   background-color: #333;
   color: white;
-  font-size: 15px;
+  font-size: 30px;
   font-family: sans-serif,serif;
   text-align: center;
 }
