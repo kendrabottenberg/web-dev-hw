@@ -41,20 +41,20 @@ header {
     padding: 0.25em;
 }
 sub-header {
-    background-color: black;
-    color: white;
+    background-color: none;
+    color: black ;
     font-family: sans-serif,serif;
-    font-size: 20pt;
+    font-size: 16pt;
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 5px;
-    margin-top: 5px;
+    margin-bottom: 1px;
+    margin-top: 1px;
     padding: 0.25em;
 }
 nav {
-  background-color: #333;
+  background-color:#ADD8E6;
   color: white;
-  font-size: 30px;
+  font-size: 25px;
   font-family: sans-serif,serif;
   text-align: center;
 }
@@ -62,16 +62,16 @@ p {
   background-color: grey;
   color: white;
   font-family: sans-serif, serif;
-  font-size: 12pt;
+  font-size: 14pt;
   text-align: center;
   text-transform: uppercase;
   padding: 0.25em;
 
 }
 form {
-  background-color: black;
+  background-color: grey;
   color: white;
-  font-size:px;
+  font-size: 14px;
   font-family: sans-serif, serif;
   text-align: left;
 }
