@@ -75,3 +75,12 @@ form {
   font-family: sans-serif, serif;
   text-align: left;
 }
+p1 {
+  background-color: none;
+  color: white;
+  font-family: sans-serif, serif;
+  font-size: 12pt;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0.25em;
+}
